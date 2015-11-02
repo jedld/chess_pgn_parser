@@ -1,0 +1,3 @@
+module PgnParser
+  VERSION = "0.0.1"
+end
