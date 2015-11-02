@@ -21,7 +21,7 @@ Or install it yourself as:
 Pretty straightforward.
 
 ```ruby
-require_relative 'pgn_parser'
+require 'pgn_parser'
 require 'json'
 
 @pgn_data = File.read(File.join(File.dirname(__FILE__),'11.pgn'))
